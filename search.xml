@@ -87,15 +87,8 @@
 <li><strong>MaxReach</strong>：表示当前能够到达的最远位置。</li>
 </ul>
 <p>我们可以看到每一步如何根据当前位置和可跳长度更新<code>MaxReach</code>，并最终判断是否能够到达数组的最后一个位置。这个过程体现了贪心算法的思想：在每一步选择当前最优的选项（即尽可能跳得更远），以期望达到全局的最优解。</p>
-<h3 id="代码展示"><a href="#代码展示" class="headerlink" title="代码展示"></a>代码展示</h3><hr>
-<pre><code>class Solution:
-def canJump(self, nums: List[int]) -&gt; bool:
-    MaxReach = 0
-    for i in range(len(nums)):
-        if i &gt; MaxReach: return False
-        MaxReach = MaxReach if MaxReach &gt;= i + nums[i] else i + nums[i]
-    return MaxReach &gt;= len(nums) - 1
-</code></pre>
+<h3 id="代码展示-–-python"><a href="#代码展示-–-python" class="headerlink" title="代码展示 – python"></a>代码展示 – python</h3><hr>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">class</span> <span class="title class_">Solution</span>:</span><br><span class="line"><span class="keyword">def</span> <span class="title function_">canJump</span>(<span class="params">self, nums: <span class="type">List</span>[<span class="built_in">int</span>]</span>) -&gt; <span class="built_in">bool</span>:</span><br><span class="line">    MaxReach = <span class="number">0</span></span><br><span class="line">    <span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(<span class="built_in">len</span>(nums)):</span><br><span class="line">        <span class="keyword">if</span> i &gt; MaxReach: <span class="keyword">return</span> <span class="literal">False</span></span><br><span class="line">        MaxReach = MaxReach <span class="keyword">if</span> MaxReach &gt;= i + nums[i] <span class="keyword">else</span> i + nums[i]</span><br><span class="line">    <span class="keyword">return</span> MaxReach &gt;= <span class="built_in">len</span>(nums) - <span class="number">1</span></span><br></pre></td></tr></table></figure>
 <h3 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h3><hr>
 <p>这里遍历是遍历到结束的，是因为可能存在开始便结束的情况，若修改遍历的值为<code>len(nums) - 1</code>，则会导致数组长度为1的无法判断。<br>这时应该返回 <code>True</code>。</p>
 <p>不用管 <code>i = index(end)</code> 那一步对应的值为多少，因为当其能够更新的情况，那么终点已经能够够到了，这是前一个 <code>if</code> 判断的。</p>
