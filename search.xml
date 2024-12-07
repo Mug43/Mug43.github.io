@@ -1,259 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>琐碎</title>
-    <url>/2024/11/28/%E7%90%90%E7%A2%8E-1/</url>
-    <content><![CDATA[<h2 id="像我这样笨拙地生活-序"><a class="markdownIt-Anchor" href="#像我这样笨拙地生活-序"></a> 像我这样笨拙地生活 序</h2>
-<p>从心境上讲，似乎这里就是一个逃避世俗的地方，想想在一个私人的地方能够自言自语，总是很享受的吧。</p>
-<p>于是就这样写了。</p>
-<p>人会成长的吧！</p>
-<span id="more"></span>
-<h2 id="年少的我好像没有被谁记住"><a class="markdownIt-Anchor" href="#年少的我好像没有被谁记住"></a> 年少的我好像没有被谁记住</h2>
-<p>上了大学总想闯出一片天地的，不过现实是残酷的，也和自己一些拧巴的固执有关吧。</p>
-<p>消失了心灵寄托，总会多出一些余热和时间，创造出一些证明自己来过的痕迹似乎是一件必然的事了。<br />
-于是开始完善自己的网站，依旧是懒惰的。不过却是磨磨蹭蹭完成了，学习到了不少东西，现在也还在学习，只有学习能够逃避生活。<br />
-高中生心态，似乎一直刻蚀在心里，也挺好。</p>
-<p>其实很多不必要都是自己创造的，对于自己一些固执的坚持。似乎有些跟不上现代生活了，慢半拍的舞蹈。</p>
-<p>唯一高兴的是自己的公众号也是建起来了，100+人也算有点成就吧，虽然消失了。</p>
-<p>还要努力啊。</p>
-<h2 id="磕磕绊绊走过一段路已是幸福"><a class="markdownIt-Anchor" href="#磕磕绊绊走过一段路已是幸福"></a> 磕磕绊绊走过一段路已是幸福</h2>
-<p>如题。最近总是很恋旧，或者本身就是一个恋旧的人，用了很久的水杯、笔、伞等通通不舍得换，游戏也兜兜转转回到了 Arcaea，与大家的相遇是无数巧合的奇迹吧。</p>
-<p>会有见面的机会吗？每个温柔善良对我的人，爱你们。</p>
-<p>以及 Ayano 姐姐，不管过去多少年，阳炎的节日我会一直坚持下去。<br />
-「アヤノはお姉ちゃんだから、皆の事、よろしくね。」</p>
-<h2 id="路上总有方向标"><a class="markdownIt-Anchor" href="#路上总有方向标"></a> 路上总有方向标</h2>
-<p><img src="chat.png" alt="alt text" /><br />
-其实进度相当堪忧，还有更多的其他老师的帮助，就是这些老师们才会让我想成为一名教师，道阻且长啊。<br />
-谢谢各位老师。</p>
-<p>最后谢谢您，范培明老师。</p>
-]]></content>
-      <tags>
-        <tag>言叶</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>恋恋手记</title>
-    <url>/2024/12/04/%E6%81%8B%E6%81%8B%E6%89%8B%E8%AE%B0/</url>
-    <content><![CDATA[<h2 id="给曾经我爱的-爱我的女孩-序"><a class="markdownIt-Anchor" href="#给曾经我爱的-爱我的女孩-序"></a> 给曾经我爱的、爱我的女孩 序</h2>
-<p>故事到此就结束啦，两年多的日子多谢陪伴，接下来的路我会一个人继续走下去，你也要幸福啊！</p>
-<span id="more"></span>
-<h2 id="天曾缺掉的角无非此等神采"><a class="markdownIt-Anchor" href="#天曾缺掉的角无非此等神采"></a> 天曾缺掉的角，无非此等神采</h2>
-<p>故事总总发生于夏季，美好的季节。<br />
-慢慢的回忆故事，细细嚼碎后吞咽。</p>
-<p>补课。日式情节一样的开始，第一次知道名字，认识也是因为别人，很早见过，很早憧憬，但并不相识。<br />
-从初中开始，高中乃至大学都有邻近的缘分，但从未在一起过，就像两条靠得很近的线，虽然会平行一段时间，交叉，但最后还是会分开，并且越离越远。</p>
-]]></content>
-      <tags>
-        <tag>恋</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>算法学习</title>
-    <url>/2024/12/01/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/</url>
-    <content><![CDATA[<span id="more"></span>]]></content>
-      <tags>
-        <tag>code</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Leetcode</title>
-    <url>/2024/12/01/Leetcode/</url>
-    <content><![CDATA[<h2 id="241201-贪心-跳跃游戏"><a class="markdownIt-Anchor" href="#241201-贪心-跳跃游戏"></a> 241201 – 贪心 – 跳跃游戏</h2>
-<span id="more"></span>
-<h3 id="题目描述"><a class="markdownIt-Anchor" href="#题目描述"></a> 题目描述</h3>
-<hr />
-<p>给你一个非负整数数组 <code>nums</code>，你最初位于数组的第一个下标。数组中的每个元素代表你在该位置可以跳跃的最大长度。</p>
-<p>判断你是否能够到达最后一个下标，如果可以，返回 <code>true</code> ；否则，返回 <code>false</code> 。</p>
-<hr />
-<p>示例 1：</p>
-<blockquote>
-<p>输入：nums = [2,3,1,1,4]<br />
-输出：true<br />
-解释：可以先跳 1 步，从下标 0 到达下标 1, 然后再从下标 1 跳 3 步到达最后一个下标。</p>
-</blockquote>
-<hr />
-<p>示例 2：</p>
-<blockquote>
-<p>输入：nums = [3,2,1,0,4]<br />
-输出：false<br />
-解释：无论怎样，总会到达下标为 3 的位置。但该下标的最大跳跃长度是 0 ， 所以永远不可能到达最后一个下标。</p>
-</blockquote>
-<hr />
-<p>提示：</p>
-<blockquote>
-<p>1 &lt;= nums.length &lt;= <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>1</mn><msup><mn>0</mn><mn>4</mn></msup></mrow><annotation encoding="application/x-tex">10^{4}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8141079999999999em;vertical-align:0em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">4</span></span></span></span></span></span></span></span></span></span></span></span><br />
-0 &lt;= nums[i] &lt;= <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>1</mn><msup><mn>0</mn><mn>5</mn></msup></mrow><annotation encoding="application/x-tex">10^{5}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8141079999999999em;vertical-align:0em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">5</span></span></span></span></span></span></span></span></span></span></span></span></p>
-</blockquote>
-<h3 id="题解思路"><a class="markdownIt-Anchor" href="#题解思路"></a> 题解思路</h3>
-<hr />
-<ol>
-<li>
-<p><strong>初始化</strong>：</p>
-<ul>
-<li>定义一个变量 <code>MaxReach</code>，用来记录当前能够到达的最远位置。初始时，这个位置是0，因为你还没有开始跳跃。</li>
-</ul>
-</li>
-<li>
-<p><strong>遍历数组</strong>：</p>
-<ul>
-<li>从数组的第一个元素开始，遍历到最后一个元素，防止出现开始即结束的情况的误判。</li>
-</ul>
-</li>
-<li>
-<p><strong>检查是否能够到达当前位置</strong>：</p>
-<ul>
-<li>在每次迭代中，首先检查当前位置 <code>i</code> 是否已经超过了 <code>MaxReach</code>。如果是，意味着你无法从上一个可达位置跳到当前位置，因此返回 <code>False</code>。</li>
-</ul>
-</li>
-<li>
-<p><strong>更新最远可达位置</strong>：</p>
-<ul>
-<li>如果当前位置可以到达，接下来需要更新 <code>MaxReach</code>。这里使用了一个三元运算符来实现贪心选择：如果当前位置加上该位置可跳的最大长度 <code>nums[i]</code> 大于 <code>MaxReach</code>，则更新 <code>MaxReach</code> 为 <code>i + nums[i]</code>，否则保持 <code>MaxReach</code> 不变。</li>
-</ul>
-</li>
-<li>
-<p><strong>判断是否到达终点</strong>：</p>
-<ul>
-<li>遍历完成后，检查 <code>MaxReach</code> 是否至少等于数组长度减去1（即最后一个元素的索引）。如果是，意味着你能够到达数组的最后一个位置，返回 <code>True</code>；否则返回 <code>False</code>。</li>
-</ul>
-</li>
-</ol>
-<h3 id="算法的贪心之处"><a class="markdownIt-Anchor" href="#算法的贪心之处"></a> 算法的贪心之处</h3>
-<hr />
-<p>这个算法的贪心之处在于，在每一步都尽可能地更新 <code>MaxReach</code> 到最远可达的位置，而不是选择一个保守的跳跃距离。通过这种方式，算法能够在遍历一次数组的过程中，高效地判断是否能够到达终点。</p>
-<h3 id="具体展示"><a class="markdownIt-Anchor" href="#具体展示"></a> 具体展示</h3>
-<hr />
-<p>假设数组 <code>nums = [2, 3, 1, 1, 4]</code> 以及 <code>nums = [3, 2, 1, 0, 4]</code>，我们将通过这两个数组来展示每一步的跳跃和<code>MaxReach</code>的更新过程。</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">初始状态:</span><br><span class="line">数值: 2  3  1  1  4</span><br><span class="line">位置: 0  1  2  3  4</span><br><span class="line">可跳: 2  3  1  1  4</span><br><span class="line">MaxReach: 0</span><br><span class="line"></span><br><span class="line">开始遍历：</span><br><span class="line"></span><br><span class="line">i = 0</span><br><span class="line">数值: 2  3  1  1  4</span><br><span class="line">位置: 0  1  2  3  4</span><br><span class="line">可跳: 2  3  1  1  4</span><br><span class="line">MaxReach: 2 (0 + nums[0])</span><br><span class="line"></span><br><span class="line">i = 1</span><br><span class="line">数值: 2  3  1  1  4</span><br><span class="line">位置: 0  1  2  3  4</span><br><span class="line">可跳: 2  3  1  1  4</span><br><span class="line">MaxReach: 4 (1 + nums[1], 因为4 &gt; 2)</span><br><span class="line"></span><br><span class="line">i = 2</span><br><span class="line">数值: 2  3  1  1  4</span><br><span class="line">位置: 0  1  2  3  4</span><br><span class="line">可跳: 2  3  1  1  4</span><br><span class="line">MaxReach: 4 (不变，因为2 + nums[2] = 3 &lt; MaxReach)</span><br><span class="line"></span><br><span class="line">i = 3</span><br><span class="line">数值: 2  3  1  1  4</span><br><span class="line">位置: 0  1  2  3  4</span><br><span class="line">可跳: 2  3  1  1  4</span><br><span class="line">MaxReach: 4 (不变，因为3 + nums[3] = 4 = MaxReach)</span><br><span class="line"></span><br><span class="line">i = 4</span><br><span class="line">数值: 2  3  1  1  4</span><br><span class="line">位置: 0  1  2  3  4</span><br><span class="line">可跳: 2  3  1  1  4</span><br><span class="line">MaxReach: 8 (4 + nums[4]，但是这个值不影响结果，</span><br><span class="line">因为能更新说明能达到该点，而该点即为终点。)</span><br><span class="line"></span><br><span class="line">最终判断:</span><br><span class="line">MaxReach (8) &gt;= len(nums) - 1 (4)</span><br><span class="line">返回 True，可以跳到最后一个位置。</span><br></pre></td></tr></table></figure>
-<hr />
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">初始状态:</span><br><span class="line">数值: 3  2  1  0  4</span><br><span class="line">位置: 0  1  2  3  4</span><br><span class="line">可跳: 3  2  1  0  4</span><br><span class="line">MaxReach: 0</span><br><span class="line"></span><br><span class="line">开始遍历：</span><br><span class="line"></span><br><span class="line">i = 0</span><br><span class="line">数值: 3  2  1  0  4</span><br><span class="line">位置: 0  1  2  3  4</span><br><span class="line">可跳: 3  2  1  0  4</span><br><span class="line">MaxReach: 3 (0 + nums[0])</span><br><span class="line"></span><br><span class="line">i = 1</span><br><span class="line">数值: 3  2  1  0  4</span><br><span class="line">位置: 0  1  2  3  4</span><br><span class="line">可跳: 3  2  1  0  4</span><br><span class="line">MaxReach: 3 (不变，因为1 + nums[1] = 3 &lt;= MaxReach)</span><br><span class="line"></span><br><span class="line">i = 2</span><br><span class="line">数值: 3  2  1  0  4</span><br><span class="line">位置: 0  1  2  3  4</span><br><span class="line">可跳: 3  2  1  0  4</span><br><span class="line">MaxReach: 3 (不变，因为2 + nums[2] = 3 &lt;= MaxReach)</span><br><span class="line"></span><br><span class="line">i = 3</span><br><span class="line">数值: 3  2  1  0  4</span><br><span class="line">位置: 0  1  2  3  4</span><br><span class="line">可跳: 3  2  1  0  4</span><br><span class="line">MaxReach: 3 (不变，因为3 + nums[3] = 3 &lt;= MaxReach)</span><br><span class="line"></span><br><span class="line">i = 4</span><br><span class="line">i (4) &gt; MaxReach (3)</span><br><span class="line">无法到达索引 i，返回 False，不更新 MaxReach</span><br></pre></td></tr></table></figure>
-<hr />
-<p>说明：</p>
-<ul>
-<li><strong>位置</strong>：表示数组中的索引位置。</li>
-<li><strong>可跳</strong>：表示在该位置可以跳跃的最大长度。</li>
-<li><strong>MaxReach</strong>：表示当前能够到达的最远位置。</li>
-</ul>
-<p>我们可以看到每一步如何根据当前位置和可跳长度更新<code>MaxReach</code>，并最终判断是否能够到达数组的最后一个位置。这个过程体现了贪心算法的思想：在每一步选择当前最优的选项（即尽可能跳得更远），以期望达到全局的最优解。</p>
-<h3 id="代码展示-python"><a class="markdownIt-Anchor" href="#代码展示-python"></a> 代码展示 – python</h3>
-<hr />
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">class</span> <span class="title class_">Solution</span>:</span><br><span class="line"><span class="keyword">def</span> <span class="title function_">canJump</span>(<span class="params">self, nums: <span class="type">List</span>[<span class="built_in">int</span>]</span>) -&gt; <span class="built_in">bool</span>:</span><br><span class="line">    MaxReach = <span class="number">0</span></span><br><span class="line">    <span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(<span class="built_in">len</span>(nums)):</span><br><span class="line">        <span class="keyword">if</span> i &gt; MaxReach: <span class="keyword">return</span> <span class="literal">False</span></span><br><span class="line">        MaxReach = MaxReach <span class="keyword">if</span> MaxReach &gt;= i + nums[i] <span class="keyword">else</span> i + nums[i]</span><br><span class="line">    <span class="keyword">return</span> MaxReach &gt;= <span class="built_in">len</span>(nums) - <span class="number">1</span></span><br></pre></td></tr></table></figure>
-<h3 id="注意"><a class="markdownIt-Anchor" href="#注意"></a> 注意</h3>
-<hr />
-<p>这里遍历是遍历到结束的，是因为可能存在开始便结束的情况，若修改遍历的值为<code>len(nums) - 1</code>，则会导致数组长度为1的无法判断。<br />
-这时应该返回 <code>True</code>。</p>
-<p>不用管 <code>i = index(end)</code> 那一步对应的值为多少，因为当其能够更新的情况，那么终点已经能够够到了，这是前一个 <code>if</code> 判断的。</p>
-]]></content>
-      <tags>
-        <tag>Code</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>概率论与数理统计</title>
-    <url>/2024/11/30/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/</url>
-    <content><![CDATA[<h2 id="教材概率论与数理统计茆诗松第三版"><a class="markdownIt-Anchor" href="#教材概率论与数理统计茆诗松第三版"></a> 教材：概率论与数理统计茆诗松第三版</h2>
-<p>在此纪念茆诗松教授和魏宗舒教授</p>
-<span id="more"></span>
-<h3 id=""><a class="markdownIt-Anchor" href="#"></a> </h3>
-]]></content>
-      <tags>
-        <tag>数学</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>理论力学及材料力学</title>
-    <url>/2024/11/30/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%E5%8F%8A%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6/</url>
-    <content><![CDATA[<h2 id="教材哈比下理论力学"><a class="markdownIt-Anchor" href="#教材哈比下理论力学"></a> 教材：哈比下理论力学</h2>
-<span id="more"></span>]]></content>
-      <tags>
-        <tag>基础力学</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>线性代数及其应用</title>
-    <url>/2024/11/30/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/</url>
-    <content><![CDATA[<h2 id="教材黄书线性代数及其应用"><a class="markdownIt-Anchor" href="#教材黄书线性代数及其应用"></a> 教材：黄书线性代数及其应用</h2>
-<span id="more"></span>
-]]></content>
-      <tags>
-        <tag>数学</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>土力学</title>
-    <url>/2024/11/30/%E5%9C%9F%E5%8A%9B%E5%AD%A6/</url>
-    <content><![CDATA[<h2 id="教材清华土力学"><a class="markdownIt-Anchor" href="#教材清华土力学"></a> 教材：清华土力学</h2>
-<span id="more"></span>]]></content>
-      <tags>
-        <tag>基础力学</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>高等数学及部分淑芬</title>
-    <url>/2024/11/30/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E5%8F%8A%E9%83%A8%E5%88%86%E6%B7%91%E8%8A%AC/</url>
-    <content><![CDATA[<h2 id="教材普林斯顿微积分-同济高数-陈纪修淑芬"><a class="markdownIt-Anchor" href="#教材普林斯顿微积分-同济高数-陈纪修淑芬"></a> 教材：普林斯顿微积分、同济高数、陈纪修淑芬</h2>
-<h3 id=""><a class="markdownIt-Anchor" href="#"></a> </h3>
-<span id="more"></span>]]></content>
-      <tags>
-        <tag>数学</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>ZjweuuThesis_V1.0开发日志</title>
-    <url>/2024/11/24/ZjweuuThesis-V1-0%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/</url>
-    <content><![CDATA[<h2 id="zjweuthesis-初识"><a class="markdownIt-Anchor" href="#zjweuthesis-初识"></a> ZjweuThesis 初识</h2>
-<p>该项目的构思早在大一下学期的时候就想好了，只不过受制于 LaTex 的了解程度和时间安排迟迟没有开始。<br />
-11月18日被学校要求不能继续开发物理实验工具网站，于是想起了该项目决定开始。<br />
-目前基于杭电的硕士研究生毕业论文 LaTex 模板开发。<br />
-项目遵循 MIT 开源协议。</p>
-<span id="more"></span>]]></content>
-      <tags>
-        <tag>LaTex</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hexo与Github的快速博客建站教程</title>
     <url>/2024/11/20/Hexo%E4%B8%8EGithub%E7%9A%84%E5%BF%AB%E9%80%9F%E5%8D%9A%E5%AE%A2%E5%BB%BA%E7%AB%99%E6%95%99%E7%A8%8B-1/</url>
-    <content><![CDATA[<h2 id="what-is-hexo"><a class="markdownIt-Anchor" href="#what-is-hexo"></a> What is Hexo?</h2>
-<hr />
+    <content><![CDATA[<h2 id="What-is-Hexo"><a href="#What-is-Hexo" class="headerlink" title="What is Hexo?"></a>What is Hexo?</h2><hr>
 <p>Hexo 是一个快速、简洁且高效的博客框架。Hexo 使用 Markdown（或其他标记语言）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。</p>
 <span id="more"></span>
-<h2 id="install"><a class="markdownIt-Anchor" href="#install"></a> install</h2>
-<hr />
+
+<h2 id="install"><a href="#install" class="headerlink" title="install"></a>install</h2><hr>
 <p>本教程只考虑 Windows 环境，如需要其他环境进行安装请移步官网 Doc。并且默认用户会使用基础的一些编辑工具。</p>
 <p>hexo 的安装需要两个前置应用：</p>
 <ul>
 <li><a href="https://nodejs.org/en">Node.js</a> (Node.js 版本需不低于 10.13，建议使用 Node.js 12.0 及以上版本)</li>
 <li><a href="https://git-scm.com/">Git</a></li>
 </ul>
-<h3 id="nodejs-install"><a class="markdownIt-Anchor" href="#nodejs-install"></a> Node.js install</h3>
-<hr />
-<p>访问该 <a href="https://nodejs.org/en">Node.js</a> 链接即可直达官网进行下载。<br />
-部分用户可能需要多个版本的 Node.js 可以使用 <a href="https://github.com/nvm-sh/nvm">nvm</a> 来管理不同版本的 Node.js。</p>
+<h3 id="Node-js-install"><a href="#Node-js-install" class="headerlink" title="Node.js install"></a>Node.js install</h3><hr>
+<p>访问该 <a href="https://nodejs.org/en">Node.js</a> 链接即可直达官网进行下载。<br>部分用户可能需要多个版本的 Node.js 可以使用 <a href="https://github.com/nvm-sh/nvm">nvm</a> 来管理不同版本的 Node.js。</p>
 <p>当在 cmd(命令提示符) 或者 power shell 中输入 <code>node -v</code> 时，出现 <code>v12.0</code> 及以上版本即成功安装了。</p>
 <p>如遇环境变量配置等问题请用户自行查询。</p>
-<h3 id="git-install"><a class="markdownIt-Anchor" href="#git-install"></a> Git install</h3>
-<hr />
-<p>通过官网 <a href="https://git-scm.com/">Git</a> 即可快速下载并安装 Git。具体步骤可按该 <a href="https://blog.csdn.net/mukes/article/details/115693833">文章</a>。<br />
-其中部分步骤可以省略。</p>
+<h3 id="Git-install"><a href="#Git-install" class="headerlink" title="Git install"></a>Git install</h3><hr>
+<p>通过官网 <a href="https://git-scm.com/">Git</a> 即可快速下载并安装 Git。具体步骤可按该 <a href="https://blog.csdn.net/mukes/article/details/115693833">文章</a>。<br>其中部分步骤可以省略。</p>
 <p>要注意，之后的过程里 Github 账户是必须的，需要用户进行相应注册。</p>
-<p>本文不考虑其中的一些配置，~~用户主观能动发挥在机魂接受范围内，~~不影响后续使用即可。</p>
-<h3 id="hexo-install"><a class="markdownIt-Anchor" href="#hexo-install"></a> Hexo install</h3>
-<hr />
-<p>安装完上述两个软件后，恭喜你，接下来我们可以正式开始安装 Hexo 了！<br />
-Node.js 安装完毕后正常情况下会带有 npm 软件包管理工具，使用 cmd(命令提示符) 或者 power shell 输入：</p>
+<p>本文不考虑其中的一些配置，<del>用户主观能动发挥在机魂接受范围内，</del>不影响后续使用即可。</p>
+<h3 id="Hexo-install"><a href="#Hexo-install" class="headerlink" title="Hexo install"></a>Hexo install</h3><hr>
+<p>安装完上述两个软件后，恭喜你，接下来我们可以正式开始安装 Hexo 了！<br>Node.js 安装完毕后正常情况下会带有 npm 软件包管理工具，使用 cmd(命令提示符) 或者 power shell 输入：</p>
 <pre><code> npm install -g hexo-cli
 </code></pre>
 <p>这里是全局安装的命令，如果您有局部安装的需求，请移步官网 Doc。</p>
-<p>同样的，输入 <code>hexo -v</code> 以检查 Hexo 是否安装完成。<br />
-当出现一列应用程序的版本号即安装完成。</p>
+<p>同样的，输入 <code>hexo -v</code> 以检查 Hexo 是否安装完成。<br>当出现一列应用程序的版本号即安装完成。</p>
 <p><strong>有些用户使用 power shell 可能会遇到 <code>hexo -v</code> 报错提示，在设置中打开 <code>developer mode</code> 或者更换 cmd 再次尝试，应该与 Hexo 本身无关</strong></p>
-<p>安装 Hexo 只需几分钟时间，若您在安装过程中遇到问题或无法找到解决方式，请检查前置步骤及其相关配置，如仍无法解决问题，移步官网进行问题提交。<br />
-<strong>如果遇到问题可能是国内网络的原因。<a href="#section1">跳转到后文问题列</a></strong></p>
-<h2 id="first-app"><a class="markdownIt-Anchor" href="#first-app"></a> First App</h2>
-<hr />
-<h3 id="基本流程"><a class="markdownIt-Anchor" href="#基本流程"></a> 基本流程</h3>
-<p>安装 Hexo 完成后，选择你想要进行工作的文件地址，继续在终端执行下列命令，Hexo 将会在指定文件夹中新建所需要的文件。</p>
+<p>安装 Hexo 只需几分钟时间，若您在安装过程中遇到问题或无法找到解决方式，请检查前置步骤及其相关配置，如仍无法解决问题，移步官网进行问题提交。<br><strong>如果遇到问题可能是国内网络的原因。<a href="#section1">跳转到后文问题列</a></strong></p>
+<h2 id="First-App"><a href="#First-App" class="headerlink" title="First App"></a>First App</h2><hr>
+<h3 id="基本流程"><a href="#基本流程" class="headerlink" title="基本流程"></a>基本流程</h3><p>安装 Hexo 完成后，选择你想要进行工作的文件地址，继续在终端执行下列命令，Hexo 将会在指定文件夹中新建所需要的文件。</p>
 <pre><code>hexo init &lt;folder&gt;
 cd &lt;folder&gt;
 npm install
@@ -276,23 +54,17 @@ npm install
 <p>输入下面命令，我们即可在本地进行初始 blog 预览。</p>
 <pre><code>hexo s 
 </code></pre>
-<p>或</p>
+<p>或 </p>
 <pre><code>hexo server
 </code></pre>
 <p>此时正常的话，终端会出现一个链接，点击即可进行本地预览。</p>
-<h3 id="一些作者遇到的问题-a-idsection1"><a class="markdownIt-Anchor" href="#一些作者遇到的问题-a-idsection1"></a> 一些作者遇到的问题 <a id="section1"></h3>
-<hr />
-<h4 id="问题1"><a class="markdownIt-Anchor" href="#问题1"></a> 问题1</h4>
-<p>当你网络不佳或者使用 Watt Toolkit 进行网络加速时，可能在 <code>hexo init &lt;folder&gt;</code> 时，终端可能出现如下提示：</p>
-<pre><code>fatal: unable to access 'https://github.com/hexojs/hexo-starter.git/': SSL certificate problem: unable to get local issuer certificate
+<h3 id="一些作者遇到的问题"><a href="#一些作者遇到的问题" class="headerlink" title="一些作者遇到的问题 "></a>一些作者遇到的问题 <a id="section1"></h3><hr>
+<h4 id="问题1"><a href="#问题1" class="headerlink" title="问题1"></a>问题1</h4><p>当你网络不佳或者使用 Watt Toolkit 进行网络加速时，可能在 <code>hexo init &lt;folder&gt;</code> 时，终端可能出现如下提示：</p>
+<pre><code>fatal: unable to access &#39;https://github.com/hexojs/hexo-starter.git/&#39;: SSL certificate problem: unable to get local issuer certificate
 WARN  git clone failed. Copying data instead
 </code></pre>
 <p>这时关闭 Watt Toolkit 网络加速或更换网络可能可以解决。该问题在后续主题安装也可能出现。</p>
-<h4 id="问题2-友链作者提供"><a class="markdownIt-Anchor" href="#问题2-友链作者提供"></a> 问题2 <a href="https://why-0-why.github.io/">友链作者提供</a></h4>
-<p>当你网络状况莫名链接不正常<s>某些学校的校园网</s>，在 <code>npm install -g hexo-cli</code> 这一步卡住时可以采用如下方法尝试解决，经过友链作者实测有效。<br />
-来源于该<a href="https://sspai.com/post/62441">博客</a><br />
-使用 Git Bash 运行以下命令：<br />
-全局切换</p>
+<h4 id="问题2-友链作者提供"><a href="#问题2-友链作者提供" class="headerlink" title="问题2 友链作者提供"></a>问题2 <a href="https://why-0-why.github.io/">友链作者提供</a></h4><p>当你网络状况莫名链接不正常<del>某些学校的校园网</del>，在 <code>npm install -g hexo-cli</code> 这一步卡住时可以采用如下方法尝试解决，经过友链作者实测有效。<br>来源于该<a href="https://sspai.com/post/62441">博客</a><br>使用 Git Bash 运行以下命令：<br>全局切换</p>
 <pre><code>npm config set registry http://registry.npm.taobao.org/
 </code></pre>
 <p>查看版本信息</p>
@@ -305,45 +77,33 @@ WARN  git clone failed. Copying data instead
 <pre><code>npm install -g hexo
 </code></pre>
 <p>使用 <code>hexo -v</code> 查看是否安装成功。</p>
-<h3 id="正常结果展示"><a class="markdownIt-Anchor" href="#正常结果展示"></a> 正常结果展示</h3>
-<hr />
+<h3 id="正常结果展示"><a href="#正常结果展示" class="headerlink" title="正常结果展示"></a>正常结果展示</h3><hr>
 <p>在 <code>hexo init &lt;folder&gt;</code> 后正常的结果展示应该如下：</p>
 <pre><code>INFO  Cloning hexo-starter https://github.com/hexojs/hexo-starter.git
 INFO  Install dependencies
 INFO  Start blogging with Hexo!
 </code></pre>
 <p>此时再继续进行操作即可正常，当一直输入到 <code>hexo s</code> 或 <code>hexo server</code> 后打开本地预览应该如下图所示：</p>
-<p><img src="demoapp.png" alt="alt text" /></p>
+<p><img src="/2024/11/20/Hexo%E4%B8%8EGithub%E7%9A%84%E5%BF%AB%E9%80%9F%E5%8D%9A%E5%AE%A2%E5%BB%BA%E7%AB%99%E6%95%99%E7%A8%8B-1/demoapp.png" alt="alt text"></p>
 <p>那么恭喜你，你已经成功建成了一个默认 Hexo 样式的博客，接下来我们将了解美观的主题使用以及如何将自己的本地博客挂载到 GitHub 上！</p>
-<h2 id="主题更换"><a class="markdownIt-Anchor" href="#主题更换"></a> 主题更换</h2>
-<hr />
-<p>Hexo 的社区提供了大量美观的主题，可以访问官网提供的<a href="https://hexo.io/themes/">主题总览</a>来预览和跳转到具体的项目中，<br />
-可以根据自己的喜好选取相应的主题，我个人使用的是 <a href="https://github.com/next-theme/hexo-theme-next">Next</a> 主题，<br />
-这是一个至今仍有社区成员维护的项目，许多技术前辈使用的主题，并且支持大量插件的使用。接下来的内容将以该主题为例。</p>
-<h3 id="安装主题"><a class="markdownIt-Anchor" href="#安装主题"></a> 安装主题</h3>
-<hr />
-<p>其他主题的安装方式都大同小异，Next 官网写的比较具体，其方法可以迁移到别的主题。<br />
-Next 的 Git 给了 Hexo 5.0 及其更高版本的主题安装方法，但是我自己并不清楚该版本的 Hexo 和 Windows 是否可以下载，这里使用 Git clone 的方式进行下载安装。<br />
-Git clone 可能需要一些配置，如 ssh 密钥等，这里不做展示，<br />
-具体可以参考该文章的<a href="https://zhuanlan.zhihu.com/p/618864711?utm_id=0">GitHub创建仓库</a>部分。</p>
-<hr />
-<p><strong>注意</strong><br />
-与上文所写的一样，Git clone 可能会遇到网络问题，关闭 Watt Toolkit 再进行尝试。<s>没有 Watt Toolkit 可能连不上 Git 库，克隆又要关掉，呃呃</s></p>
-<hr />
+<h2 id="主题更换"><a href="#主题更换" class="headerlink" title="主题更换"></a>主题更换</h2><hr>
+<p>Hexo 的社区提供了大量美观的主题，可以访问官网提供的<a href="https://hexo.io/themes/">主题总览</a>来预览和跳转到具体的项目中，<br>可以根据自己的喜好选取相应的主题，我个人使用的是 <a href="https://github.com/next-theme/hexo-theme-next">Next</a> 主题，<br>这是一个至今仍有社区成员维护的项目，许多技术前辈使用的主题，并且支持大量插件的使用。接下来的内容将以该主题为例。</p>
+<h3 id="安装主题"><a href="#安装主题" class="headerlink" title="安装主题"></a>安装主题</h3><hr>
+<p>其他主题的安装方式都大同小异，Next 官网写的比较具体，其方法可以迁移到别的主题。<br>Next 的 Git 给了 Hexo 5.0 及其更高版本的主题安装方法，但是我自己并不清楚该版本的 Hexo 和 Windows 是否可以下载，这里使用 Git clone 的方式进行下载安装。<br>Git clone 可能需要一些配置，如 ssh 密钥等，这里不做展示，<br>具体可以参考该文章的<a href="https://zhuanlan.zhihu.com/p/618864711?utm_id=0">GitHub创建仓库</a>部分。</p>
+<hr>
+<p><strong>注意</strong><br>与上文所写的一样，Git clone 可能会遇到网络问题，关闭 Watt Toolkit 再进行尝试。<del>没有 Watt Toolkit 可能连不上 Git 库，克隆又要关掉，呃呃</del></p>
+<hr>
 <p>定位到你的项目地址，在终端输入 clone 命令：</p>
 <pre><code>cd hexo-site (用你实际地址替换)
 git clone https://github.com/next-theme/hexo-theme-next themes/next
 </code></pre>
-<p>安装完成后回到刚刚的项目地址中的 <code>_config.yml</code> 文件，该文件为配置文件，划到底部，找到名为 <code>theme:landscape</code> 的配置信息，<br />
-将其默认的信息修改为 <code>theme: next</code>，这时再在本地预览，输入 <code>hexo s</code> 命令点击 <code>http://localhost:4000/</code>，则会出现以 Next 为主题的博客。</p>
+<p>安装完成后回到刚刚的项目地址中的 <code>_config.yml</code> 文件，该文件为配置文件，划到底部，找到名为 <code>theme:landscape</code> 的配置信息，<br>将其默认的信息修改为 <code>theme: next</code>，这时再在本地预览，输入 <code>hexo s</code> 命令点击 <code>http://localhost:4000/</code>，则会出现以 Next 为主题的博客。</p>
 <p><strong>Next 文档的个性化配置写的很详细，如果你觉得该主题不够好看，尝试个性化定义它或者更换主题</strong></p>
 <p>如果出现如下图所示的页面，恭喜你，我们距离成功只有最后一步了！</p>
-<p><img src="next.png" alt="alt text" /></p>
-<h2 id="git-部署"><a class="markdownIt-Anchor" href="#git-部署"></a> Git 部署</h2>
-<hr />
-<p>首先我们已经确定注册了 GitHub 账户，不然前面的步骤应该也不可能完成。<br />
-默认新用户从零开始创建库即可。</p>
-<p>在个人主页中选择 New 新建仓库，需要注意，新建库名称一定以你的账户名称开始，不过输错不要紧，我们可以~~删库，~~重命名的方式后续修改。</p>
+<p><img src="/2024/11/20/Hexo%E4%B8%8EGithub%E7%9A%84%E5%BF%AB%E9%80%9F%E5%8D%9A%E5%AE%A2%E5%BB%BA%E7%AB%99%E6%95%99%E7%A8%8B-1/next.png" alt="alt text"></p>
+<h2 id="Git-部署"><a href="#Git-部署" class="headerlink" title="Git 部署"></a>Git 部署</h2><hr>
+<p>首先我们已经确定注册了 GitHub 账户，不然前面的步骤应该也不可能完成。<br>默认新用户从零开始创建库即可。</p>
+<p>在个人主页中选择 New 新建仓库，需要注意，新建库名称一定以你的账户名称开始，不过输错不要紧，我们可以<del>删库，</del>重命名的方式后续修改。</p>
 <p>库名应如下：</p>
 <pre><code>yourname.github.io
 </code></pre>
@@ -369,35 +129,21 @@ hexo g
 hexo d
 </code></pre>
 <p>现在，在你的浏览器内输入刚刚库的名称，稍等一会，不出意外的话，你的第一个博客成功在 Github 上部署了！</p>
-<h3 id="可能的问题"><a class="markdownIt-Anchor" href="#可能的问题"></a> 可能的问题</h3>
-<hr />
+<h3 id="可能的问题"><a href="#可能的问题" class="headerlink" title="可能的问题"></a>可能的问题</h3><hr>
 <p>可能需要修改库的 page 设置才能正常部署，多次更换尝试即可。</p>
-<h3 id="感谢您的阅读"><a class="markdownIt-Anchor" href="#感谢您的阅读"></a> 感谢您的阅读</h3>
-<p>基本的内容就这些，更高级的设置请移步 Hexo 官网 Doc 和相应主题的官网。</p>
+<h3 id="感谢您的阅读"><a href="#感谢您的阅读" class="headerlink" title="感谢您的阅读"></a>感谢您的阅读</h3><p>基本的内容就这些，更高级的设置请移步 Hexo 官网 Doc 和相应主题的官网。</p>
 ]]></content>
       <tags>
         <tag>博客</tag>
       </tags>
   </entry>
   <entry>
-    <title>书</title>
-    <url>/2024/11/17/%E4%B9%A6/</url>
-    <content><![CDATA[<p>在此写一些轻小说、漫改、严肃文学的阅读感受，路平说的是对的，每天花个10分钟睡前读一点。</p>
-<span id="more"></span>
-<h2 id="hello-world"><a class="markdownIt-Anchor" href="#hello-world"></a> Hello world</h2>
-<p>就我读的小说版本而言，感情线和剧情线都很微妙，似乎套娃的没有这么精妙，如果能更多的交代一点内容就好了，好吧。<br />
-这种感情有点纯粹到不真实了，仅此而已，羡慕与嫉妒。</p>
-<h2 id="知晓天空之蓝的人啊"><a class="markdownIt-Anchor" href="#知晓天空之蓝的人啊"></a> 知晓天空之蓝的人啊</h2>
-<p>比 《Hello World》 读起来舒服一点，但没好到哪里去，可能这两部都是先有原创动画的原因，或许我该去补动画了，年轻的男男女女哟。</p>
-<p>很早把这本书就加入书单了，一直没买，借到了也省了一笔钱吧。</p>
-<p>想看是因为这个书名吗，我想是的，确实很有趣的名字。</p>
-<p>但是整个故事很单薄啊，或者说缺少一些线索、伏笔，感情的描写淡淡的，连着两部都是这样。不过这本的经典日式情节给我逗笑了，还是算一点有趣吧。</p>
-<p>青蛙不知海之深远，却知晓天空之蓝。</p>
-<p>主旨上也丰富一点点，好吧。</p>
-<h2 id="女生徒"><a class="markdownIt-Anchor" href="#女生徒"></a> 女生徒</h2>
-]]></content>
+    <title>ZjweuuThesis_V1.0开发日志</title>
+    <url>/2024/11/24/ZjweuuThesis-V1-0%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/</url>
+    <content><![CDATA[<h2 id="ZjweuThesis-初识"><a href="#ZjweuThesis-初识" class="headerlink" title="ZjweuThesis 初识"></a>ZjweuThesis 初识</h2><p>该项目的构思早在大一下学期的时候就想好了，只不过受制于 LaTex 的了解程度和时间安排迟迟没有开始。<br>11月18日被学校要求不能继续开发物理实验工具网站，于是想起了该项目决定开始。<br>目前基于杭电的硕士研究生毕业论文 LaTex 模板开发。<br>项目遵循 MIT 开源协议。</p>
+<span id="more"></span>]]></content>
       <tags>
-        <tag>书</tag>
+        <tag>LaTex</tag>
       </tags>
   </entry>
   <entry>
@@ -405,5 +151,189 @@ hexo d
     <url>/2024/11/16/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>Leetcode</title>
+    <url>/2024/12/01/Leetcode/</url>
+    <content><![CDATA[<h2 id="241201-–-贪心-–-跳跃游戏"><a href="#241201-–-贪心-–-跳跃游戏" class="headerlink" title="241201 – 贪心 – 跳跃游戏"></a>241201 – 贪心 – 跳跃游戏</h2><span id="more"></span>
+<h3 id="题目描述"><a href="#题目描述" class="headerlink" title="题目描述"></a>题目描述</h3><hr>
+<p>给你一个非负整数数组 <code>nums</code>，你最初位于数组的第一个下标。数组中的每个元素代表你在该位置可以跳跃的最大长度。</p>
+<p>判断你是否能够到达最后一个下标，如果可以，返回 <code>true</code> ；否则，返回 <code>false</code> 。</p>
+<hr>
+<p>示例 1：</p>
+<blockquote>
+<p>输入：nums &#x3D; [2,3,1,1,4]<br>输出：true<br>解释：可以先跳 1 步，从下标 0 到达下标 1, 然后再从下标 1 跳 3 步到达最后一个下标。</p>
+</blockquote>
+<hr>
+<p>示例 2：</p>
+<blockquote>
+<p>输入：nums &#x3D; [3,2,1,0,4]<br>输出：false<br>解释：无论怎样，总会到达下标为 3 的位置。但该下标的最大跳跃长度是 0 ， 所以永远不可能到达最后一个下标。</p>
+</blockquote>
+<hr>
+<p>提示：</p>
+<blockquote>
+<p>1 &lt;&#x3D; nums.length &lt;&#x3D; $10^{4}$<br>0 &lt;&#x3D; nums[i] &lt;&#x3D; $10^{5}$</p>
+</blockquote>
+<h3 id="题解思路"><a href="#题解思路" class="headerlink" title="题解思路"></a>题解思路</h3><hr>
+<ol>
+<li><p><strong>初始化</strong>：</p>
+<ul>
+<li>定义一个变量 <code>MaxReach</code>，用来记录当前能够到达的最远位置。初始时，这个位置是0，因为你还没有开始跳跃。</li>
+</ul>
+</li>
+<li><p><strong>遍历数组</strong>：</p>
+<ul>
+<li>从数组的第一个元素开始，遍历到最后一个元素，防止出现开始即结束的情况的误判。</li>
+</ul>
+</li>
+<li><p><strong>检查是否能够到达当前位置</strong>：</p>
+<ul>
+<li>在每次迭代中，首先检查当前位置 <code>i</code> 是否已经超过了 <code>MaxReach</code>。如果是，意味着你无法从上一个可达位置跳到当前位置，因此返回 <code>False</code>。</li>
+</ul>
+</li>
+<li><p><strong>更新最远可达位置</strong>：</p>
+<ul>
+<li>如果当前位置可以到达，接下来需要更新 <code>MaxReach</code>。这里使用了一个三元运算符来实现贪心选择：如果当前位置加上该位置可跳的最大长度 <code>nums[i]</code> 大于 <code>MaxReach</code>，则更新 <code>MaxReach</code> 为 <code>i + nums[i]</code>，否则保持 <code>MaxReach</code> 不变。</li>
+</ul>
+</li>
+<li><p><strong>判断是否到达终点</strong>：</p>
+<ul>
+<li>遍历完成后，检查 <code>MaxReach</code> 是否至少等于数组长度减去1（即最后一个元素的索引）。如果是，意味着你能够到达数组的最后一个位置，返回 <code>True</code>；否则返回 <code>False</code>。</li>
+</ul>
+</li>
+</ol>
+<h3 id="算法的贪心之处"><a href="#算法的贪心之处" class="headerlink" title="算法的贪心之处"></a>算法的贪心之处</h3><hr>
+<p>这个算法的贪心之处在于，在每一步都尽可能地更新 <code>MaxReach</code> 到最远可达的位置，而不是选择一个保守的跳跃距离。通过这种方式，算法能够在遍历一次数组的过程中，高效地判断是否能够到达终点。</p>
+<h3 id="具体展示"><a href="#具体展示" class="headerlink" title="具体展示"></a>具体展示</h3><hr>
+<p>假设数组 <code>nums = [2, 3, 1, 1, 4]</code> 以及 <code>nums = [3, 2, 1, 0, 4]</code>，我们将通过这两个数组来展示每一步的跳跃和<code>MaxReach</code>的更新过程。</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">初始状态:</span><br><span class="line">数值: 2  3  1  1  4</span><br><span class="line">位置: 0  1  2  3  4</span><br><span class="line">可跳: 2  3  1  1  4</span><br><span class="line">MaxReach: 0</span><br><span class="line"></span><br><span class="line">开始遍历：</span><br><span class="line"></span><br><span class="line">i = 0</span><br><span class="line">数值: 2  3  1  1  4</span><br><span class="line">位置: 0  1  2  3  4</span><br><span class="line">可跳: 2  3  1  1  4</span><br><span class="line">MaxReach: 2 (0 + nums[0])</span><br><span class="line"></span><br><span class="line">i = 1</span><br><span class="line">数值: 2  3  1  1  4</span><br><span class="line">位置: 0  1  2  3  4</span><br><span class="line">可跳: 2  3  1  1  4</span><br><span class="line">MaxReach: 4 (1 + nums[1], 因为4 &gt; 2)</span><br><span class="line"></span><br><span class="line">i = 2</span><br><span class="line">数值: 2  3  1  1  4</span><br><span class="line">位置: 0  1  2  3  4</span><br><span class="line">可跳: 2  3  1  1  4</span><br><span class="line">MaxReach: 4 (不变，因为2 + nums[2] = 3 &lt; MaxReach)</span><br><span class="line"></span><br><span class="line">i = 3</span><br><span class="line">数值: 2  3  1  1  4</span><br><span class="line">位置: 0  1  2  3  4</span><br><span class="line">可跳: 2  3  1  1  4</span><br><span class="line">MaxReach: 4 (不变，因为3 + nums[3] = 4 = MaxReach)</span><br><span class="line"></span><br><span class="line">i = 4</span><br><span class="line">数值: 2  3  1  1  4</span><br><span class="line">位置: 0  1  2  3  4</span><br><span class="line">可跳: 2  3  1  1  4</span><br><span class="line">MaxReach: 8 (4 + nums[4]，但是这个值不影响结果，</span><br><span class="line">因为能更新说明能达到该点，而该点即为终点。)</span><br><span class="line"></span><br><span class="line">最终判断:</span><br><span class="line">MaxReach (8) &gt;= len(nums) - 1 (4)</span><br><span class="line">返回 True，可以跳到最后一个位置。</span><br></pre></td></tr></table></figure>
+<hr>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">初始状态:</span><br><span class="line">数值: 3  2  1  0  4</span><br><span class="line">位置: 0  1  2  3  4</span><br><span class="line">可跳: 3  2  1  0  4</span><br><span class="line">MaxReach: 0</span><br><span class="line"></span><br><span class="line">开始遍历：</span><br><span class="line"></span><br><span class="line">i = 0</span><br><span class="line">数值: 3  2  1  0  4</span><br><span class="line">位置: 0  1  2  3  4</span><br><span class="line">可跳: 3  2  1  0  4</span><br><span class="line">MaxReach: 3 (0 + nums[0])</span><br><span class="line"></span><br><span class="line">i = 1</span><br><span class="line">数值: 3  2  1  0  4</span><br><span class="line">位置: 0  1  2  3  4</span><br><span class="line">可跳: 3  2  1  0  4</span><br><span class="line">MaxReach: 3 (不变，因为1 + nums[1] = 3 &lt;= MaxReach)</span><br><span class="line"></span><br><span class="line">i = 2</span><br><span class="line">数值: 3  2  1  0  4</span><br><span class="line">位置: 0  1  2  3  4</span><br><span class="line">可跳: 3  2  1  0  4</span><br><span class="line">MaxReach: 3 (不变，因为2 + nums[2] = 3 &lt;= MaxReach)</span><br><span class="line"></span><br><span class="line">i = 3</span><br><span class="line">数值: 3  2  1  0  4</span><br><span class="line">位置: 0  1  2  3  4</span><br><span class="line">可跳: 3  2  1  0  4</span><br><span class="line">MaxReach: 3 (不变，因为3 + nums[3] = 3 &lt;= MaxReach)</span><br><span class="line"></span><br><span class="line">i = 4</span><br><span class="line">i (4) &gt; MaxReach (3)</span><br><span class="line">无法到达索引 i，返回 False，不更新 MaxReach</span><br></pre></td></tr></table></figure>
+<hr>
+<p>说明：</p>
+<ul>
+<li><strong>位置</strong>：表示数组中的索引位置。</li>
+<li><strong>可跳</strong>：表示在该位置可以跳跃的最大长度。</li>
+<li><strong>MaxReach</strong>：表示当前能够到达的最远位置。</li>
+</ul>
+<p>我们可以看到每一步如何根据当前位置和可跳长度更新<code>MaxReach</code>，并最终判断是否能够到达数组的最后一个位置。这个过程体现了贪心算法的思想：在每一步选择当前最优的选项（即尽可能跳得更远），以期望达到全局的最优解。</p>
+<h3 id="代码展示-–-python"><a href="#代码展示-–-python" class="headerlink" title="代码展示 – python"></a>代码展示 – python</h3><hr>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">class</span> <span class="title class_">Solution</span>:</span><br><span class="line"><span class="keyword">def</span> <span class="title function_">canJump</span>(<span class="params">self, nums: <span class="type">List</span>[<span class="built_in">int</span>]</span>) -&gt; <span class="built_in">bool</span>:</span><br><span class="line">    MaxReach = <span class="number">0</span></span><br><span class="line">    <span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(<span class="built_in">len</span>(nums)):</span><br><span class="line">        <span class="keyword">if</span> i &gt; MaxReach: <span class="keyword">return</span> <span class="literal">False</span></span><br><span class="line">        MaxReach = MaxReach <span class="keyword">if</span> MaxReach &gt;= i + nums[i] <span class="keyword">else</span> i + nums[i]</span><br><span class="line">    <span class="keyword">return</span> MaxReach &gt;= <span class="built_in">len</span>(nums) - <span class="number">1</span></span><br></pre></td></tr></table></figure>
+<h3 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h3><hr>
+<p>这里遍历是遍历到结束的，是因为可能存在开始便结束的情况，若修改遍历的值为<code>len(nums) - 1</code>，则会导致数组长度为1的无法判断。<br>这时应该返回 <code>True</code>。</p>
+<p>不用管 <code>i = index(end)</code> 那一步对应的值为多少，因为当其能够更新的情况，那么终点已经能够够到了，这是前一个 <code>if</code> 判断的。</p>
+]]></content>
+      <tags>
+        <tag>Code</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>土力学</title>
+    <url>/2024/11/30/%E5%9C%9F%E5%8A%9B%E5%AD%A6/</url>
+    <content><![CDATA[<h2 id="教材：清华土力学"><a href="#教材：清华土力学" class="headerlink" title="教材：清华土力学"></a>教材：清华土力学</h2><span id="more"></span>]]></content>
+      <tags>
+        <tag>基础力学</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>书</title>
+    <url>/2024/11/17/%E4%B9%A6/</url>
+    <content><![CDATA[<p>在此写一些轻小说、漫改、严肃文学的阅读感受，路平说的是对的，每天花个10分钟睡前读一点。</p>
+<span id="more"></span>
+<h2 id="Hello-world"><a href="#Hello-world" class="headerlink" title="Hello world"></a>Hello world</h2><p>就我读的小说版本而言，感情线和剧情线都很微妙，似乎套娃的没有这么精妙，如果能更多的交代一点内容就好了，好吧。<br>这种感情有点纯粹到不真实了，仅此而已，羡慕与嫉妒。</p>
+<h2 id="知晓天空之蓝的人啊"><a href="#知晓天空之蓝的人啊" class="headerlink" title="知晓天空之蓝的人啊"></a>知晓天空之蓝的人啊</h2><p>比 《Hello World》 读起来舒服一点，但没好到哪里去，可能这两部都是先有原创动画的原因，或许我该去补动画了，年轻的男男女女哟。</p>
+<p>很早把这本书就加入书单了，一直没买，借到了也省了一笔钱吧。</p>
+<p>想看是因为这个书名吗，我想是的，确实很有趣的名字。</p>
+<p>但是整个故事很单薄啊，或者说缺少一些线索、伏笔，感情的描写淡淡的，连着两部都是这样。不过这本的经典日式情节给我逗笑了，还是算一点有趣吧。</p>
+<p>青蛙不知海之深远，却知晓天空之蓝。</p>
+<p>主旨上也丰富一点点，好吧。</p>
+<h2 id="女生徒"><a href="#女生徒" class="headerlink" title="女生徒"></a>女生徒</h2>]]></content>
+      <tags>
+        <tag>书</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>概率论与数理统计</title>
+    <url>/2024/11/30/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/</url>
+    <content><![CDATA[<h2 id="教材：概率论与数理统计茆诗松第三版"><a href="#教材：概率论与数理统计茆诗松第三版" class="headerlink" title="教材：概率论与数理统计茆诗松第三版"></a>教材：概率论与数理统计茆诗松第三版</h2><p>在此纪念茆诗松教授和魏宗舒教授</p>
+<span id="more"></span>
+<h3 id=""><a href="#" class="headerlink" title=""></a></h3>]]></content>
+      <tags>
+        <tag>数学</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>恋恋手记</title>
+    <url>/2024/12/04/%E6%81%8B%E6%81%8B%E6%89%8B%E8%AE%B0/</url>
+    <content><![CDATA[<h2 id="给曾经我爱的、爱我的女孩-序"><a href="#给曾经我爱的、爱我的女孩-序" class="headerlink" title="给曾经我爱的、爱我的女孩 序"></a>给曾经我爱的、爱我的女孩 序</h2><p>故事到此就结束啦，两年多的日子多谢陪伴，接下来的路我会一个人继续走下去，你也要幸福啊！</p>
+<span id="more"></span>
+<h2 id="天曾缺掉的角，无非此等神采"><a href="#天曾缺掉的角，无非此等神采" class="headerlink" title="天曾缺掉的角，无非此等神采"></a>天曾缺掉的角，无非此等神采</h2><p>故事总总发生于夏季，美好的季节。<br>慢慢的回忆故事，细细嚼碎后吞咽。</p>
+<p>补课。日式情节一样的开始，第一次知道名字，认识也是因为别人，很早见过，很早憧憬，但并不相识。<br>从初中开始，高中乃至大学都有邻近的缘分，但从未在一起过，就像两条靠得很近的线，虽然会平行一段时间，交叉，但最后还是会分开，并且越离越远。</p>
+<p>不过命运就是奇妙的东西，不记得以什么开始，似乎是我的死缠烂打，渐渐熟识。<br>一开始的冰冷渐渐解冻。</p>
+<h2 id="附记-1207-芭蕉夜雨"><a href="#附记-1207-芭蕉夜雨" class="headerlink" title="附记 1207 芭蕉夜雨"></a>附记 1207 芭蕉夜雨</h2><p>我用世间 最顺的笔尖<br>也无法将离别续写<br>你远走之前 我从未发现<br>三更的月如此皎洁<br>我用世间 最顺的笔尖<br>将我们的故事书写<br>单纯的遇见 平凡的相恋<br>却是我最大的正确</p>
+]]></content>
+      <tags>
+        <tag>恋</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>理论力学及材料力学</title>
+    <url>/2024/11/30/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%E5%8F%8A%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6/</url>
+    <content><![CDATA[<p>教材：哈比下理论力学</p>
+<span id="more"></span>
+<h2 id=""><a href="#" class="headerlink" title=""></a></h2>]]></content>
+      <tags>
+        <tag>基础力学</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>算法学习</title>
+    <url>/2024/12/01/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/</url>
+    <content><![CDATA[<span id="more"></span>]]></content>
+      <tags>
+        <tag>code</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>琐碎</title>
+    <url>/2024/11/28/%E7%90%90%E7%A2%8E-1/</url>
+    <content><![CDATA[<h2 id="像我这样笨拙地生活-序"><a href="#像我这样笨拙地生活-序" class="headerlink" title="像我这样笨拙地生活 序"></a>像我这样笨拙地生活 序</h2><p>从心境上讲，似乎这里就是一个逃避世俗的地方，想想在一个私人的地方能够自言自语，总是很享受的吧。</p>
+<p>于是就这样写了。</p>
+<p>人会成长的吧！</p>
+<span id="more"></span>
+<h2 id="年少的我好像没有被谁记住"><a href="#年少的我好像没有被谁记住" class="headerlink" title="年少的我好像没有被谁记住"></a>年少的我好像没有被谁记住</h2><p>上了大学总想闯出一片天地的，不过现实是残酷的，也和自己一些拧巴的固执有关吧。</p>
+<p>消失了心灵寄托，总会多出一些余热和时间，创造出一些证明自己来过的痕迹似乎是一件必然的事了。<br>于是开始完善自己的网站，依旧是懒惰的。不过却是磨磨蹭蹭完成了，学习到了不少东西，现在也还在学习，只有学习能够逃避生活。<br>高中生心态，似乎一直刻蚀在心里，也挺好。</p>
+<p>其实很多不必要都是自己创造的，对于自己一些固执的坚持。似乎有些跟不上现代生活了，慢半拍的舞蹈。</p>
+<p>唯一高兴的是自己的公众号也是建起来了，100+人也算有点成就吧，虽然消失了。</p>
+<p>还要努力啊。</p>
+<h2 id="磕磕绊绊走过一段路已是幸福"><a href="#磕磕绊绊走过一段路已是幸福" class="headerlink" title="磕磕绊绊走过一段路已是幸福"></a>磕磕绊绊走过一段路已是幸福</h2><p>如题。最近总是很恋旧，或者本身就是一个恋旧的人，用了很久的水杯、笔、伞等通通不舍得换，游戏也兜兜转转回到了 Arcaea，与大家的相遇是无数巧合的奇迹吧。</p>
+<p>会有见面的机会吗？每个温柔善良对我的人，爱你们。</p>
+<p>以及 Ayano 姐姐，不管过去多少年，阳炎的节日我会一直坚持下去。<br>「アヤノはお姉ちゃんだから、皆の事、よろしくね。」</p>
+<h2 id="路上总有方向标"><a href="#路上总有方向标" class="headerlink" title="路上总有方向标"></a>路上总有方向标</h2><p><img src="/2024/11/28/%E7%90%90%E7%A2%8E-1/chat.png" alt="alt text"><br>其实进度相当堪忧，还有更多的其他老师的帮助，就是这些老师们才会让我想成为一名教师，道阻且长啊。<br>谢谢各位老师。</p>
+<p>最后谢谢您，范培明老师。</p>
+<h2 id="空气小记"><a href="#空气小记" class="headerlink" title="空气小记"></a>空气小记</h2><p>好几天连绵的霾，外加风<br>似双手掐着喉咙，勒着肺<br>半挂的骄阳，蒙上纱，整片惨白<br>枝梢上也不见点绿叶与麻雀<br>到处憔悴，同我一般</p>
+]]></content>
+      <tags>
+        <tag>言叶</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>线性代数及其应用</title>
+    <url>/2024/11/30/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/</url>
+    <content><![CDATA[<h2 id="教材：黄书线性代数及其应用"><a href="#教材：黄书线性代数及其应用" class="headerlink" title="教材：黄书线性代数及其应用"></a>教材：黄书线性代数及其应用</h2><span id="more"></span>
+]]></content>
+      <tags>
+        <tag>数学</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>高等数学及部分淑芬</title>
+    <url>/2024/11/30/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E5%8F%8A%E9%83%A8%E5%88%86%E6%B7%91%E8%8A%AC/</url>
+    <content><![CDATA[<p>教材：普林斯顿微积分、同济高数、陈纪修淑芬、场论</p>
+<span id="more"></span>
+<h2 id="函数与极限"><a href="#函数与极限" class="headerlink" title="函数与极限"></a>函数与极限</h2><h2 id="导数与微分"><a href="#导数与微分" class="headerlink" title="导数与微分"></a>导数与微分</h2><h2 id="微分中值定理"><a href="#微分中值定理" class="headerlink" title="微分中值定理"></a>微分中值定理</h2><h2 id="不定积分"><a href="#不定积分" class="headerlink" title="不定积分"></a>不定积分</h2><h2 id="定积分及其应用"><a href="#定积分及其应用" class="headerlink" title="定积分及其应用"></a>定积分及其应用</h2><h2 id="微分方程"><a href="#微分方程" class="headerlink" title="微分方程"></a>微分方程</h2><h2 id="向量代数-空间几何-场论"><a href="#向量代数-空间几何-场论" class="headerlink" title="向量代数&#x2F;空间几何&#x2F;场论"></a>向量代数&#x2F;空间几何&#x2F;场论</h2><h2 id="多元微分法及其应用"><a href="#多元微分法及其应用" class="headerlink" title="多元微分法及其应用"></a>多元微分法及其应用</h2><h2 id="重积分"><a href="#重积分" class="headerlink" title="重积分"></a>重积分</h2><h2 id="曲线积分与曲面积分"><a href="#曲线积分与曲面积分" class="headerlink" title="曲线积分与曲面积分"></a>曲线积分与曲面积分</h2><h2 id="无穷级数"><a href="#无穷级数" class="headerlink" title="无穷级数"></a>无穷级数</h2>]]></content>
+      <tags>
+        <tag>数学</tag>
+      </tags>
   </entry>
 </search>
