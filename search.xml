@@ -138,35 +138,6 @@ hexo d
       </tags>
   </entry>
   <entry>
-    <title>ZjweuuThesis_V1.0开发日志</title>
-    <url>/2024/11/24/ZjweuuThesis-V1-0%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/</url>
-    <content><![CDATA[<h2 id="ZjweuThesis-初识"><a href="#ZjweuThesis-初识" class="headerlink" title="ZjweuThesis 初识"></a>ZjweuThesis 初识</h2><p>该项目的构思早在大一下学期的时候就想好了，只不过受制于 LaTex 的了解程度和时间安排迟迟没有开始。<br>11月18日被学校要求不能继续开发物理实验工具网站，于是想起了该项目决定开始。<br>目前基于杭电的硕士研究生毕业论文 LaTex 模板开发。<br>项目遵循 MIT 开源协议。</p>
-<span id="more"></span>
-
-<h2 id="Zjweu-Beamer-构建"><a href="#Zjweu-Beamer-构建" class="headerlink" title="Zjweu Beamer 构建"></a>Zjweu Beamer 构建</h2><p>该项目使用的 THU 提供的现有模板，采用 HHU 的改版进行修改。<br>已经全部完成，其中只是单纯修改了样式。<br>具体内容实现由 THU 大佬完成，原项目地址：<a href="https://github.com/tuna/THU-Beamer-Theme">https://github.com/tuna/THU-Beamer-Theme</a><br>本项目地址：<a href="https://github.com/Mug43/Zjweu-Thesis-and-Beamer">https://github.com/Mug43/Zjweu-Thesis-and-Beamer</a></p>
-]]></content>
-      <tags>
-        <tag>LaTex</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>书</title>
-    <url>/2024/11/17/%E4%B9%A6/</url>
-    <content><![CDATA[<p>在此写一些轻小说、漫改、严肃文学的阅读感受，路平说的是对的，每天花个10分钟睡前读一点。</p>
-<span id="more"></span>
-<h2 id="Hello-world"><a href="#Hello-world" class="headerlink" title="Hello world"></a>Hello world</h2><p>就我读的小说版本而言，感情线和剧情线都很微妙，似乎套娃的没有这么精妙，如果能更多的交代一点内容就好了，好吧。<br>这种感情有点纯粹到不真实了，仅此而已，羡慕与嫉妒。</p>
-<h2 id="知晓天空之蓝的人啊"><a href="#知晓天空之蓝的人啊" class="headerlink" title="知晓天空之蓝的人啊"></a>知晓天空之蓝的人啊</h2><p>比 《Hello World》 读起来舒服一点，但没好到哪里去，可能这两部都是先有原创动画的原因，或许我该去补动画了，年轻的男男女女哟。</p>
-<p>很早把这本书就加入书单了，一直没买，借到了也省了一笔钱吧。</p>
-<p>想看是因为这个书名吗，我想是的，确实很有趣的名字。</p>
-<p>但是整个故事很单薄啊，或者说缺少一些线索、伏笔，感情的描写淡淡的，连着两部都是这样。不过这本的经典日式情节给我逗笑了，还是算一点有趣吧。</p>
-<p>青蛙不知海之深远，却知晓天空之蓝。</p>
-<p>主旨上也丰富一点点，好吧。</p>
-]]></content>
-      <tags>
-        <tag>书</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Leetcode</title>
     <url>/2024/12/01/Leetcode/</url>
     <content><![CDATA[<h2 id="241201-–-贪心-–-跳跃游戏"><a href="#241201-–-贪心-–-跳跃游戏" class="headerlink" title="241201 – 贪心 – 跳跃游戏"></a>241201 – 贪心 – 跳跃游戏</h2><span id="more"></span>
@@ -242,6 +213,18 @@ hexo d
       </tags>
   </entry>
   <entry>
+    <title>ZjweuuThesis_V1.0开发日志</title>
+    <url>/2024/11/24/ZjweuuThesis-V1-0%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/</url>
+    <content><![CDATA[<h2 id="ZjweuThesis-初识"><a href="#ZjweuThesis-初识" class="headerlink" title="ZjweuThesis 初识"></a>ZjweuThesis 初识</h2><p>该项目的构思早在大一下学期的时候就想好了，只不过受制于 LaTex 的了解程度和时间安排迟迟没有开始。<br>11月18日被学校要求不能继续开发物理实验工具网站，于是想起了该项目决定开始。<br>目前基于杭电的硕士研究生毕业论文 LaTex 模板开发。<br>项目遵循 MIT 开源协议。</p>
+<span id="more"></span>
+
+<h2 id="Zjweu-Beamer-构建"><a href="#Zjweu-Beamer-构建" class="headerlink" title="Zjweu Beamer 构建"></a>Zjweu Beamer 构建</h2><p>该项目使用的 THU 提供的现有模板，采用 HHU 的改版进行修改。<br>已经全部完成，其中只是单纯修改了样式。<br>具体内容实现由 THU 大佬完成，原项目地址：<a href="https://github.com/tuna/THU-Beamer-Theme">https://github.com/tuna/THU-Beamer-Theme</a><br>本项目地址：<a href="https://github.com/Mug43/Zjweu-Thesis-and-Beamer">https://github.com/Mug43/Zjweu-Thesis-and-Beamer</a></p>
+]]></content>
+      <tags>
+        <tag>LaTex</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>恋恋手记</title>
     <url>/2024/12/04/%E6%81%8B%E6%81%8B%E6%89%8B%E8%AE%B0/</url>
     <content><![CDATA[<h2 id="给曾经我爱的、爱我的女孩-序"><a href="#给曾经我爱的、爱我的女孩-序" class="headerlink" title="给曾经我爱的、爱我的女孩 序"></a>给曾经我爱的、爱我的女孩 序</h2><p>故事到此就结束啦，两年多的日子多谢陪伴，接下来的路我会一个人继续走下去，你也要幸福啊！</p>
@@ -254,6 +237,23 @@ hexo d
 ]]></content>
       <tags>
         <tag>言叶</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>书</title>
+    <url>/2024/11/17/%E4%B9%A6/</url>
+    <content><![CDATA[<p>在此写一些轻小说、漫改、严肃文学的阅读感受，路平说的是对的，每天花个10分钟睡前读一点。</p>
+<span id="more"></span>
+<h2 id="Hello-world"><a href="#Hello-world" class="headerlink" title="Hello world"></a>Hello world</h2><p>就我读的小说版本而言，感情线和剧情线都很微妙，似乎套娃的没有这么精妙，如果能更多的交代一点内容就好了，好吧。<br>这种感情有点纯粹到不真实了，仅此而已，羡慕与嫉妒。</p>
+<h2 id="知晓天空之蓝的人啊"><a href="#知晓天空之蓝的人啊" class="headerlink" title="知晓天空之蓝的人啊"></a>知晓天空之蓝的人啊</h2><p>比 《Hello World》 读起来舒服一点，但没好到哪里去，可能这两部都是先有原创动画的原因，或许我该去补动画了，年轻的男男女女哟。</p>
+<p>很早把这本书就加入书单了，一直没买，借到了也省了一笔钱吧。</p>
+<p>想看是因为这个书名吗，我想是的，确实很有趣的名字。</p>
+<p>但是整个故事很单薄啊，或者说缺少一些线索、伏笔，感情的描写淡淡的，连着两部都是这样。不过这本的经典日式情节给我逗笑了，还是算一点有趣吧。</p>
+<p>青蛙不知海之深远，却知晓天空之蓝。</p>
+<p>主旨上也丰富一点点，好吧。</p>
+]]></content>
+      <tags>
+        <tag>书</tag>
       </tags>
   </entry>
   <entry>
@@ -293,6 +293,9 @@ hexo d
 <p>–<br>算上寒假比赛，若还是没有成果，那么连着一年半没有过长假了，并且毫无用处。<br>单纯浪费时间，英语也还是迟迟不得进步。时间啊，我的梦想何时能实现。</p>
 <p>对不起，所有人，太懈怠了啊。</p>
 <p>还是太惬意了。</p>
+<h2 id="告别-2024"><a href="#告别-2024" class="headerlink" title="告别 2024"></a>告别 2024</h2><p>无言，无可纪念。</p>
+<p>生命的成长，即将到来的 20， 再也回不去的少年。</p>
+<p>希望所爱之人平平安安，即最幸运。</p>
 ]]></content>
       <tags>
         <tag>言叶</tag>
